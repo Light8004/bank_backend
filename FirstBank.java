@@ -5,4 +5,4 @@ public class FirstBank
         Acount luc = new Acount("Luc", "1234");
         luc.showMenu(); 
     }
-}
+} //fix. 
